@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priya-sammal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=priya-sammal&theme=kimbie_dark&no-bg=true" height="150" alt="trophy graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
